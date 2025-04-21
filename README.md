@@ -1,7 +1,7 @@
 # todo-list-typescript
 Quais são os requisitos?
 -um aplicativo web de lista de tarefas que permita criar, excluir, modificar, marcar como concluída, desmarcar como concluída.
--react para gerenciar as tarefas).
+-react para gerenciar as tarefas.
 -Back-End com banco de dados(nodejs e postgress).
 -comunicação entre Front-End e Back-End(requisições).
 -arquitetura hexagonal(em typescript).
