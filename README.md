@@ -11,3 +11,13 @@ Implementação do projeto:
   HTML5
   CSS
   Typescript
+
+Qual a base de um projeto?
+    As tecnologias de gerenciamento do projeto como Docker,
+    Vite, Node.js.
+
+Quais as tecnologias usadas para a implementação?
+    GitHub, HTML5, CSS, Typescript, React, Tailwind.
+
+E o banco de dados?
+    PostgreSQL, MySQL.
