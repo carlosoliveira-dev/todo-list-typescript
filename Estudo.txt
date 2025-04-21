@@ -1,2 +1,6 @@
 Como desenvolver localmente com hot reload?
     usando bind mount do docker(ex: React, Node, etc.)
+
+Quais são as partes do projeto que podem ser trabalhadas
+de forma isolada?
+    front-end, back-end e banco de dados.
