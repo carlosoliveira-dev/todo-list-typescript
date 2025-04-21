@@ -1,0 +1,2 @@
+Como desenvolver localmente com hot reload?
+    usando bind mount do docker(ex: React, Node, etc.)
